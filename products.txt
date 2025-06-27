@@ -1,0 +1,10 @@
+100 Shotgun 22 36144.4 Gun
+101 cannon 23 125115 Explosives
+102 teargas 32 97311.8 Chemical
+103 flamerower 55 55478.9 Gun
+104 dagger 32 12346 Gun
+105 Tank 28 97311.8 Explosives
+106 bazuka 23 55478.9 Gun
+107 grenade 32 12346 Explosives
+108 Tank 55 97311.8 Explosives
+109 rifle 32 55478.9 Gun

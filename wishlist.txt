@@ -1,0 +1,5 @@
+103 flamethrower 55 55478.9 Gun
+104 dagger 32 12346 Gun
+103 flamethrower 55 55478.9 Gun
+103 flamethrower 55 55478.9 Gun
+107 grenade 32 12346 Explosives
